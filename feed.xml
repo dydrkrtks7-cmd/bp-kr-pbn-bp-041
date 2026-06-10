@@ -5,8 +5,8 @@
   <link>https://dydrkrtks7-cmd.github.io/bp-kr-pbn-bp-041</link>
   <description><![CDATA[홈페이지 제작 - 서울 홈페이지 제작 업체 관련 최신 소식 및 가이드]]></description>
   <language>ko</language>
-  <pubDate>Wed, 10 Jun 2026 00:09:23 GMT</pubDate>
-  <lastBuildDate>Wed, 10 Jun 2026 00:09:23 GMT</lastBuildDate>
+  <pubDate>Wed, 10 Jun 2026 08:40:57 GMT</pubDate>
+  <lastBuildDate>Wed, 10 Jun 2026 08:40:57 GMT</lastBuildDate>
   <atom:link href="https://dydrkrtks7-cmd.github.io/bp-kr-pbn-bp-041/feed.xml" rel="self" type="application/rss+xml" />
   
     <item>
@@ -17,10 +17,24 @@
       <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title><![CDATA[서울 홈페이지 제작 업체 현장에서 놓치기 쉬운 포인트를 기록해봤다]]></title>
+      <link>https://dydrkrtks7-cmd.github.io/bp-kr-pbn-bp-041/posts/field_note-002-1dnkvl1.html</link>
+      <guid isPermaLink="true">https://dydrkrtks7-cmd.github.io/bp-kr-pbn-bp-041/posts/field_note-002-1dnkvl1.html</guid>
+      <description><![CDATA[### 제목: 창작한 제목 아, 진짜... 프로덕션 배포 후 3개월 만에 발생한 silent regression 디버깅은 마치 숨겨진 딜레마의 파티였어요. ML 엔지니어로서, 이 문제는 단순히 버그가 아니라 심각한 디자인 결정과 시스템 설계의 부재를 드러내고 있어요. ]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title><![CDATA[서울 홈페이지 제작 업체 처음 알아볼 때 실제로 많이 묻는 질문 5가지]]></title>
       <link>https://dydrkrtks7-cmd.github.io/bp-kr-pbn-bp-041/posts/qa-001-1io0ejf.html</link>
       <guid isPermaLink="true">https://dydrkrtks7-cmd.github.io/bp-kr-pbn-bp-041/posts/qa-001-1io0ejf.html</guid>
       <description><![CDATA[### 제목: 창작한 제목: "凌晨3時의 CPU 크레딧 스케줄러: AWS Lightsail 인스턴스 커널 패닉 사례" #### 소제목 1:- 현장에서 확인된 특정 AMI 조합이 문제였음 #### 소제목 2:- S3 버저닝 비용 폭증으로 인한 페이징 알림 발생 #### ]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Apache Superset 2.0 RC3 삭제 릴리즈와 취약점 분석]]></title>
+      <link>https://dydrkrtks7-cmd.github.io/bp-kr-pbn-bp-041/posts/review-001-1dnkvl1.html</link>
+      <guid isPermaLink="true">https://dydrkrtks7-cmd.github.io/bp-kr-pbn-bp-041/posts/review-001-1dnkvl1.html</guid>
+      <description><![CDATA[### 제목: 창작한 제목Apache Superset 2.0 RC3 삭제 릴리즈와 취약점 분석 #### 소제목1. Apache Superset 2.0 RC3 배경과 PyPI에서의 삭제 이유2. 삭제된 RC3 빌드의 취약점 요약 및 설명3. 구체적인 맥락: 오픈소스 도구]]></description>
       <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
     </item>
 </channel>
